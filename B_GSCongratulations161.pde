@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】 iapafotoさん
+// 【作品名】Golfed Teapot - 1117ch
 // https://www.shadertoy.com/view/XsSGzG
 // （Shadertoy.glslを見るにゃ！！）
 //

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Naoki Tsutaeさん
+// 【作品名】Tunnel-java ver
 // https://openprocessing.org/sketch/809970
 //
 

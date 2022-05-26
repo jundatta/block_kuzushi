@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Danguaferさん
+// 【作品名】Creation by Silexars
 // https://www.shadertoy.com/view/XsXXDn
 //
 

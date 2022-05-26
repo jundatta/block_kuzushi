@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】sdfgeoffさん
+// 【作品名】A Thousand Lights
 // https://www.shadertoy.com/view/Ndfyz4
 //
 

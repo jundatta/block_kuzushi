@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bpmvacc3p9fbkbq84cmg?index=41&origin=popular
+// 【作者】避雷さん
+// 【作品名】infinitely delayed.
+// https://neort.io/art/bpmvacc3p9fbkbq84cmg
 //
 
 class GameSceneCongratulations176 extends GameSceneCongratulationsBase {

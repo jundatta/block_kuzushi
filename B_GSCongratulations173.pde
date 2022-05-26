@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bnig0ek3p9f5erb53180?index=25&origin=user_like
+// 【作者】okazzさん
+// 【作品名】cccddd
+// https://neort.io/art/bnig0ek3p9f5erb53180
 //
 
 class GameSceneCongratulations173 extends GameSceneCongratulationsBase {
@@ -39,7 +41,7 @@ class GameSceneCongratulations173 extends GameSceneCongratulationsBase {
     //forms.length = 0;
     forms.clear();
     num = 0;
-        col = P5JSrandom(pallete);
+    col = P5JSrandom(pallete);
     divideRect((width / 2.0f) - hs, (height / 2.0f) - hs, s, s, s * 0.4);
     formLen = forms.size();
   }

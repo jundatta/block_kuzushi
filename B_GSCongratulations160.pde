@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】iapafotoさん
+// 【作品名】On the salt lake
 // https://www.shadertoy.com/view/fsXcR8
 //
 

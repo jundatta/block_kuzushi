@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】bradjamesgrantさん
+// 【作品名】fractal pyramid
 // https://www.shadertoy.com/view/tsXBzS
 //
 

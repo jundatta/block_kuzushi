@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】mathfoxLabさん
+// 【作品名】lightSearch
 // https://openprocessing.org/sketch/1316835
 //
 
@@ -25,7 +27,7 @@ class GameSceneCongratulations171 extends GameSceneCongratulationsBase {
     resetShader();
 
     properFrameCount++;
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

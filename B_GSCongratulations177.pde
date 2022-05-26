@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】iqさん
+// 【作品名】Raymarching - Primitives
 // https://www.shadertoy.com/view/Xds3zN
 //
 

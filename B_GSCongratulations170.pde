@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bnn4ek43p9f5erb53gh0?index=26&origin=user_like
+// 【作者】okazzさん
+// 【作品名】sttfff
+// https://neort.io/art/bnn4ek43p9f5erb53gh0
 //
 
 class GameSceneCongratulations170 extends GameSceneCongratulationsBase {

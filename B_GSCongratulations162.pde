@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】yooyooyさん
+// 【作品名】 Fibonacci number
 // https://openprocessing.org/sketch/1316396
 //
 

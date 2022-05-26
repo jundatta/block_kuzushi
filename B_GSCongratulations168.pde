@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bpefcu43p9f4nmb8bq00?index=28&origin=user_like
+// 【作者】okazzさん
+// 【作品名】lplllpl
+// https://neort.io/art/bpefcu43p9f4nmb8bq00
 //
 
 class GameSceneCongratulations168 extends GameSceneCongratulationsBase {

@@ -1,7 +1,10 @@
 // コングラチュレーション画面
 //
-// サンタさんから頂きました＼(^_^)／
-// based on https://www.shadertoy.com/view/ttjXzR
+// こちらがオリジナルです。
+// 【作者】Viscous Fingering - webGL2 smplfさん
+// 【作品名】FabriceNeyret2
+// https://www.shadertoy.com/view/ttjXzR
+// 【移植】サンタさん
 //
 import java.util.*;
 import java.util.stream.*;

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】bjornornornさん
+// 【作品名】Tonemapping experiment
 // https://www.shadertoy.com/view/fsXcz4
 //
 

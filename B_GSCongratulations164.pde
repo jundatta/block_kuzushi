@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bvk7pfk3p9f30ks55nb0?index=33&origin=user_like
+// 【作者】okazzさん
+// 【作品名】201227
+// https://neort.io/art/bvk7pfk3p9f30ks55nb0
 //
 
 class GameSceneCongratulations164 extends GameSceneCongratulationsBase {

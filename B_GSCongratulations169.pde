@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】mathfoxLabさん
+// 【作品名】gear
 // https://openprocessing.org/sketch/930898
 //
 

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】lampje83さん
+// 【作品名】Reflection and shadow test
 // https://www.shadertoy.com/view/ssXfz4
 //
 
