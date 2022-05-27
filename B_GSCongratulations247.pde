@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c3lam3c3p9f8s59bglcg?index=86&origin=user_like
+// 【作者】fotflaさん
+// 【作品名】Kikyo
+// https://neort.io/art/c3lam3c3p9f8s59bglcg
 //
 
 class GameSceneCongratulations247 extends GameSceneCongratulationsBase {

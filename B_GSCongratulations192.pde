@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】clustahさん
+// 【作品名】Shader Sketch
 // https://openprocessing.org/sketch/1362193
 //
 

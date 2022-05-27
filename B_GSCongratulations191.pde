@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c813uak3p9f3k6tguq7g?index=7&origin=user_profile
+// 【作者】JunKiyoshiさん
+// 【作品名】Beautiful circle.
+// https://neort.io/art/c813uak3p9f3k6tguq7g
 //
 
 class GameSceneCongratulations191 extends GameSceneCongratulationsBase {

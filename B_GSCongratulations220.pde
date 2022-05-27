@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】kikpondさん
+// 【作品名】Night view from the summit
 // https://openprocessing.org/sketch/1331203
 //
 

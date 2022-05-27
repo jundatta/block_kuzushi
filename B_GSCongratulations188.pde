@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Haakon Søraasさん
+// 【作品名】Radarklokke
 // https://openprocessing.org/sketch/1238121
 //
 

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Nexio Septimusさん
+// 【作品名】Complex Exponentiation
 // https://openprocessing.org/sketch/1406859
 //
 
@@ -111,7 +113,7 @@ class GameSceneCongratulations256 extends GameSceneCongratulationsBase {
     noFill();
     stroke(255, 255, 255);
     ellipse(cx, cy, radius, radius);
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bqi46hs3p9fdlitdb6kg?index=90&origin=user_like
+// 【作者】rakurai5さん
+// 【作品名】Moon Fishing
+// https://neort.io/art/bqi46hs3p9fdlitdb6kg
 //
 
 class GameSceneCongratulations225 extends GameSceneCongratulationsBase {

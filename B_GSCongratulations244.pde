@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Pierre Bail
+// 【作品名】Conformal Mapping
 // https://openprocessing.org/sketch/1368520
 //
 import java.util.function.BiConsumer;

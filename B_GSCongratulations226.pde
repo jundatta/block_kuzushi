@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Javierさん
+// 【作品名】Naves espaciales
 // https://openprocessing.org/sketch/1373027
 //
 

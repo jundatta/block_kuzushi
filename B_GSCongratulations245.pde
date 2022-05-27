@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bq295cs3p9fefb926sf0?index=87&origin=user_like
+// 【作者】rakurai5さん
+// 【作品名】Warp drive
+// https://neort.io/art/bq295cs3p9fefb926sf0
 //
 
 class GameSceneCongratulations245 extends GameSceneCongratulationsBase {

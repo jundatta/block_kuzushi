@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c731bn43p9f3hsje9avg?index=89&origin=user_like
+// 【作者】fumixさん
+// 【作品名】isometric tree
+// https://neort.io/art/c731bn43p9f3hsje9avg
 //
 
 class GameSceneCongratulations255 extends GameSceneCongratulationsBase {

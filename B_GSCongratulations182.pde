@@ -1,9 +1,10 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】中内　純(ハンドルネーム：JunKiyoshi)さん
+// 【作品名】Drifting noise. Draw by openFrameworks
 // https://junkiyoshi.com/openframeworks20220131/
-//
-// ロジックはPC-8001(TN8001)さんに頂きました＼(^_^)／
+// 【移植】PC-8001(TN8001)さん
 //
 
 class GameSceneCongratulations182 extends GameSceneCongratulationsBase {

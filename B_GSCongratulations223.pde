@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/brag90c3p9f04urh8q90?index=91&origin=user_like
+// 【作者】rakurai5さん
+// 【作品名】KaleidoCord
+// https://neort.io/art/brag90c3p9f04urh8q90
 //
 
 class GameSceneCongratulations223 extends GameSceneCongratulationsBase {

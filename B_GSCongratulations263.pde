@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c7sjma43p9fclnodvjf0?index=81&origin=user_like
+// 【作者】独楽回しeddyさん
+// 【作品名】MoveCirclesSketch
+// https://neort.io/art/c7sjma43p9fclnodvjf0
 //
 
 class GameSceneCongratulations263 extends GameSceneCongratulationsBase {
@@ -143,7 +145,7 @@ class GameSceneCongratulations263 extends GameSceneCongratulationsBase {
       return false;
     }
   }
-  
+
   @Override void mousePressed() {
     gGameStack.change(new GameSceneTitle());
   }

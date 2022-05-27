@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c7trlas3p9fclnoe02ag?index=82&origin=user_like
+// 【作者】akitchさん
+// 【作品名】.
+// https://neort.io/art/c7trlas3p9fclnoe02ag
 //
 
 class GameSceneCongratulations261 extends GameSceneCongratulationsBase {
@@ -93,7 +95,7 @@ class GameSceneCongratulations261 extends GameSceneCongratulationsBase {
     }
     pg.endShape();
   }
-  
+
   @Override void mousePressed() {
     gGameStack.change(new GameSceneTitle());
   }

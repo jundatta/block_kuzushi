@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】（わからず）
+// 【作品名】https://www.shadertoy.com/view/tsKyzwからの移植。とのこと
 // https://glslsandbox.com/e#79108.0
 //
 

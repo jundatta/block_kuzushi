@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bpaj8043p9f4nmb8ap4g?index=88&origin=user_like
+// 【作者】rakurai5さん
+// 【作品名】LifeCord:Blue
+// https://neort.io/art/bpaj8043p9f4nmb8ap4g
 //
 
 class GameSceneCongratulations243 extends GameSceneCongratulationsBase {

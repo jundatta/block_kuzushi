@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】mhnewmanさん
+// 【作品名】Glow City
 // https://www.shadertoy.com/view/XlsyWB
 //
 

@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bq85h1c3p9f6qoqnm3k0?index=89&origin=user_like
+// 【作者】rakurai5さん
+// 【作品名】Station
+// https://neort.io/art/bq85h1c3p9f6qoqnm3k0
 //
 
 class GameSceneCongratulations227 extends GameSceneCongratulationsBase {

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】morgan3dさん
+// 【作品名】Tiny Planet: Earth
 // https://www.shadertoy.com/view/lt3XDM
 //
 

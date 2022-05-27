@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】ギン / Ginさん
+// 【作品名】Cosmo Orb
 // https://neort.io/art/c7r35ks3p9fclnodut9g
 //
 

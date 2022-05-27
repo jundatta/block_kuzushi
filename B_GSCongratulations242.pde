@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】mathfoxLabさん
+// 【作品名】my first boids
 // https://openprocessing.org/sketch/1368816
 //
 

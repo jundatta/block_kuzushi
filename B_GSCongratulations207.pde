@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Dave_Hoskinsさん
+// 【作品名】[2TC 15] Mystery Mountains
 // https://www.shadertoy.com/view/llsGW7
 //
 

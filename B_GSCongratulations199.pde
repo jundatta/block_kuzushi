@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bhuilrc3p9f8qviu364g?index=97&origin=user_like
+// 【作者】aadebdebさん
+// 【作品名】Flying Human
+// https://neort.io/art/bhuilrc3p9f8qviu364g
 //
 
 class GameSceneCongratulations199 extends GameSceneCongratulationsBase {

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】otaviogoodさん
+// 【作品名】Skyline
 // https://www.shadertoy.com/view/XtsSWs
 //
 

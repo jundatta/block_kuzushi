@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Muhammad Elsawyさん
+// 【作品名】Ferris Wheel
 // https://openprocessing.org/sketch/1034456
 //
 

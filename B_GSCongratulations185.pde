@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c7t8ni43p9fclnodvrag?index=93&origin=latest
+// 【作者】tonoshakeさん
+// 【作品名】20220202_okonomiyaki
+// https://neort.io/art/c7t8ni43p9fclnodvrag
 //
 
 class GameSceneCongratulations185 extends GameSceneCongratulationsBase {

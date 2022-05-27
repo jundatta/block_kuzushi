@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】MeTHさん
+// 【作品名】Ring of Fire Shader
 // https://openprocessing.org/sketch/1390657
 //
 

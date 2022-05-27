@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】morimeaさん
+// 【作品名】Cube lines
 // https://www.shadertoy.com/view/NslGRN
 //
 

@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bknqk243p9f7drq1jeu0?index=98&origin=user_like
+// 【作者】aadebdebさん
+// 【作品名】Physics #2
+// https://neort.io/art/bknqk243p9f7drq1jeu0
 //
 
 class GameSceneCongratulations197 extends GameSceneCongratulationsBase {

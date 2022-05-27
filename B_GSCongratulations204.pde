@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】nimitzさん
+// 【作品名】Cloud Ten
 // https://www.shadertoy.com/view/XtS3DD
 //
 

@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bvm534c3p9f30ks562l0?index=85&origin=user_like
+// 【作者】fumixさん
+// 【作品名】Like star wars
+// https://neort.io/art/bvm534c3p9f30ks562l0
 //
 
 class GameSceneCongratulations253 extends GameSceneCongratulationsBase {

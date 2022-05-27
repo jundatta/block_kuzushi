@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c80siac3p9f3k6tguo4g?index=0&origin=popular
+// 【作者】fumixさん
+// 【作品名】particlock
+// https://neort.io/art/c80siac3p9f3k6tguo4g
 //
 
 class GameSceneCongratulations190 extends GameSceneCongratulationsBase {

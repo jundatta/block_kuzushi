@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】watabo_shiさん
+// 【作品名】LEGO Lion
 // https://openprocessing.org/sketch/1292325
 //
 
@@ -121,7 +123,7 @@ class GameSceneCongratulations250 extends GameSceneCongratulationsBase {
         pop();
       }
     }
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

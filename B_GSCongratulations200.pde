@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Roni Kaufmanさん
+// 【作品名】Harmony (Circle)
 // https://openprocessing.org/sketch/1356670
 //
 
@@ -65,7 +67,7 @@ class GameSceneCongratulations200 extends GameSceneCongratulationsBase {
     }
     endShape();
   }
-  
+
   @Override void mousePressed() {
     gGameStack.change(new GameSceneTitle());
   }

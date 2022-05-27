@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bkho2v43p9f188g4t290?index=95&origin=user_like
+// 【作者】Alminaさん
+// 【作品名】Milky way
+// https://neort.io/art/bkho2v43p9f188g4t290
 //
 
 class GameSceneCongratulations217 extends GameSceneCongratulationsBase {
@@ -16,7 +18,7 @@ class GameSceneCongratulations217 extends GameSceneCongratulationsBase {
     s.set("resolution", width, height);
   }
   @Override void draw() {
-//    s.set("backbuffer", getGraphics());
+    //    s.set("backbuffer", getGraphics());
     s.set("time", millis() / 1000.0f);
     s.set("mouse", (float)mouseX / (float)width, (float)mouseY / (float)height);
     shader(s);

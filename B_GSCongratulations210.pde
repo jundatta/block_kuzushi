@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】中内　純(ハンドルネーム：JunKiyoshi)さん
+// 【作品名】Vivid Red. Draw by openFrameworks
 // https://junkiyoshi.com/openframeworks20220219/
 //
 

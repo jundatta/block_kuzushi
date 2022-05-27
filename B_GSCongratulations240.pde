@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】（わからず）
+// 【作品名】https://www.shadertoy.com/view/llsXRXからの移植。とのこと
 // https://glslsandbox.com/e#78901.0
 //
 

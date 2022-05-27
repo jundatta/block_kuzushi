@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bpbta8c3p9f4nmb8b48g?index=100&origin=user_like
+// 【作者】aadebdebさん
+// 【作品名】BW #14
+// https://neort.io/art/bpbta8c3p9f4nmb8b48g
 //
 
 class GameSceneCongratulations193 extends GameSceneCongratulationsBase {

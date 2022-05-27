@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】anthonyさん
+// 【作品名】Christmas 2019
 // https://openprocessing.org/sketch/1380943
 //
 

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Rouxさん
+// 【作品名】Sapin de Noël 2
 // https://openprocessing.org/sketch/1400423
 //
 

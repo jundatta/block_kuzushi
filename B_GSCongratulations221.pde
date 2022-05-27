@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bqe2hq43p9fdlitd9th0?index=93&origin=user_like
+// 【作者】rakurai5さん
+// 【作品名】Wavering
+// https://neort.io/art/bqe2hq43p9fdlitd9th0
 //
 
 class GameSceneCongratulations221 extends GameSceneCongratulationsBase {

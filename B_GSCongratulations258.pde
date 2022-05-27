@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/c816l743p9f3k6tgusug?index=84&origin=user_like
+// 【作者】Kaneshige Hirokazuさん
+// 【作品名】particle in capsule_3
+// https://neort.io/art/c816l743p9f3k6tgusug
 //
 
 class GameSceneCongratulations258 extends GameSceneCongratulationsBase {
@@ -213,7 +215,7 @@ class GameSceneCongratulations258 extends GameSceneCongratulationsBase {
     pg.endDraw();
     int offsetX = (OrgW-width) / 2;
     image(pg, -offsetX, 0);
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

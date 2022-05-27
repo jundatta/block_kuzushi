@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/br929mk3p9f04urh8870?index=86&origin=user_like
+// 【作者】fotflaさん
+// 【作品名】Gold Fish
+// https://neort.io/art/br929mk3p9f04urh8870
 //
 
 class GameSceneCongratulations249 extends GameSceneCongratulationsBase {

@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/br1tduc3p9f11j00j7lg?index=86&origin=user_like
+// 【作者】fotflaさん
+// 【作品名】StendGlass
+// https://neort.io/art/br1tduc3p9f11j00j7lg
 //
 
 class GameSceneCongratulations251 extends GameSceneCongratulationsBase {

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Anonymousさん
+// 【作品名】Christmas Tree - Epic
 // https://openprocessing.org/sketch/1398166
 //
 
@@ -31,7 +33,7 @@ class GameSceneCongratulations260 extends GameSceneCongratulationsBase {
       popMatrix();
     }
     pop();
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

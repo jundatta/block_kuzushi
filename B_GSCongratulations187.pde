@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】MeTHさん
+// 【作品名】MetaBalls (Gravitational Fire Shader)
 // https://openprocessing.org/sketch/1292407
 //
 
@@ -117,6 +119,6 @@ class GameSceneCongratulations187 extends GameSceneCongratulationsBase {
     super.keyPressed();
 
     // スペースキーを拾うのでキーが押されても遷移しない
-//    gGameStack.change(new GameSceneTitle());
+    //    gGameStack.change(new GameSceneTitle());
   }
 }

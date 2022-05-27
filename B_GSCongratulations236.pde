@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】FlyedCodeさん（たぶん）
+// 【作品名】https://www.shadertoy.com/view/XlsyWBからの移植。とのこと
 // https://glslsandbox.com/e#79194.1
 //
 

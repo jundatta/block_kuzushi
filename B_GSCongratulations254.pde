@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Richard Bourneさん
+// 【作品名】Interactive Logos
 // https://openprocessing.org/sketch/1409955
 //
 

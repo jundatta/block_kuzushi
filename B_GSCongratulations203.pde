@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】nimitzさん
+// 【作品名】Sirenian Dawn
 // https://www.shadertoy.com/view/XsyGWV
 //
 

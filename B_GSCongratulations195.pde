@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bmo51uk3p9f7m1g027n0?index=99&origin=user_like
+// 【作者】aadebdebさん
+// 【作品名】Motion #2
+// https://neort.io/art/bmo51uk3p9f7m1g027n0
 //
 
 class GameSceneCongratulations195 extends GameSceneCongratulationsBase {

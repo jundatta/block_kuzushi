@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bqb72pc3p9f6qoqnndqg?index=66&origin=popular
+// 【作者】rakurai5さん
+// 【作品名】StarNight's Passing
+// https://neort.io/art/bqb72pc3p9f6qoqnndqg
 //
 // 2022/04/29
 // VMware(R) Workstation 16 Player 16.2.3 build-19376536

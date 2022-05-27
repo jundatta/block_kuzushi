@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】watabo_shiさん
+// 【作品名】Snowflake
 // https://openprocessing.org/sketch/1406956
 //
 
@@ -88,7 +90,7 @@ class GameSceneCongratulations252 extends GameSceneCongratulationsBase {
       pop();
     }
     pop();
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

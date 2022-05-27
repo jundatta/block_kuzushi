@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Shaneさん
+// 【作品名】Abstract Corridor
 // https://www.shadertoy.com/view/MlXSWX
 //
 

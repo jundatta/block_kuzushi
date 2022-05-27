@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Kaliさん
+// 【作品名】Fractal Land
 // https://www.shadertoy.com/view/XsBXWt
 //
 

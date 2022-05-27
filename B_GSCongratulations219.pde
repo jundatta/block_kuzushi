@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bqvqmic3p9f48fkiu5og?index=92&origin=user_like
+// 【作者】wata_pjさん
+// 【作品名】Country Roads
+// https://neort.io/art/bqvqmic3p9f48fkiu5og
 //
 
 class GameSceneCongratulations219 extends GameSceneCongratulationsBase {

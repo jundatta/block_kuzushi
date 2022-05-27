@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】ThingOnItsOwn
+// 【作品名】GreeceSimulator
 // https://openprocessing.org/sketch/582909
 //
 

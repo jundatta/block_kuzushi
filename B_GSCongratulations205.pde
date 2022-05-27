@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】nimitzさん
+// 【作品名】Plasma Globe
 // https://www.shadertoy.com/view/XsjXRm
 //
 

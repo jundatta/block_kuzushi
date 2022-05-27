@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】medi kidさん
+// 【作品名】proc test5
 // https://openprocessing.org/sketch/1359379
 //
 

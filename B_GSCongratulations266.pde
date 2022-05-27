@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】watabo_shiさん
+// 【作品名】Xmas Tree
 // https://openprocessing.org/sketch/1416184
 //
 
@@ -114,7 +116,7 @@ class GameSceneCongratulations266 extends GameSceneCongratulationsBase {
     // ^^^ ？？？さんありがとう＼(^_^)／ ^^^
     resetShader();
     pop();
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

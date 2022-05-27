@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】knarkowiczさん
+// 【作品名】[SIG15] Mario World 1-1
 // https://www.shadertoy.com/view/XtlSD7
 //
 

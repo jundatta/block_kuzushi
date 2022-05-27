@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】SoRA_X7さん
+// 【作品名】Swingby
 // https://openprocessing.org/sketch/1400031
 //
 
@@ -99,7 +101,7 @@ class GameSceneCongratulations257 extends GameSceneCongratulationsBase {
     if (frameCount % 300 == 0) {
       setPlanetsPos();
     }
-    
+
     logoRightLower(#ff0000);
   }
   @Override void mousePressed() {

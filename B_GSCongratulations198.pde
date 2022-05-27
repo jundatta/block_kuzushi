@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Lim Hui Minさん
+// 【作品名】WorldSimulator
 // https://openprocessing.org/sketch/1361249
 //
 

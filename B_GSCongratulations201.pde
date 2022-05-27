@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】mrangeさん
+// 【作品名】Truchet + Kaleidoscope FTW
 // https://www.shadertoy.com/view/7lKSWW
 //
 

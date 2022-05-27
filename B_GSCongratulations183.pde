@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】KTさん
+// 【作品名】 AniMapped View
 // https://openprocessing.org/sketch/1287366
 //
 

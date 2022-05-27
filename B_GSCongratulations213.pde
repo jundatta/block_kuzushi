@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Dave_Hoskinsさん
+// 【作品名】Remnant X
 // https://www.shadertoy.com/view/4sjSW1
 //
 

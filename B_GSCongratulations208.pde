@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】TekFさん
+// 【作品名】Buoy
 // https://www.shadertoy.com/view/XdsGDB
 //
 

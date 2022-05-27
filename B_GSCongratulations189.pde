@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Ivan Rudnickiさん
+// 【作品名】Snow Squall
 // https://openprocessing.org/sketch/1362294
 //
 

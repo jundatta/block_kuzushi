@@ -1,7 +1,9 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
-// https://neort.io/art/bqslq5s3p9f48fkisttg?index=96&origin=user_like
+// 【作者】aadebdebさん
+// 【作品名】Iridescence
+// https://neort.io/art/bqslq5s3p9f48fkisttg
 //
 
 class GameSceneCongratulations215 extends GameSceneCongratulationsBase {

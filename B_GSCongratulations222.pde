@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】Pierre Bailさん
+// 【作品名】Colored Ying Yang
 // https://openprocessing.org/sketch/1392548
 //
 
@@ -55,7 +57,7 @@ class GameSceneCongratulations222 extends GameSceneCongratulationsBase {
   }
   @Override void draw() {
     background(255);
-    
+
     for (int j=0; j<A.length; j++)
     {
       A[j].x=xc+(side/sqrt(2))*cos(3*PI/4.0f -j*PI/2.0f-rot);
@@ -107,7 +109,7 @@ class GameSceneCongratulations222 extends GameSceneCongratulationsBase {
   {
     circle(C.x, C.y, 2*ray);
   }
-  
+
   @Override void mousePressed() {
     gGameStack.change(new GameSceneTitle());
   }

@@ -1,6 +1,8 @@
 // コングラチュレーション画面
 //
 // こちらがオリジナルです。
+// 【作者】iqさん
+// 【作品名】Elevated
 // https://www.shadertoy.com/view/MdX3Rr
 //
 
