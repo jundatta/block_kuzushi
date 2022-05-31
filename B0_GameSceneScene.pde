@@ -1,4 +1,12 @@
 // ゲーム画面とデモ画面の親
+//
+// こちらがオリジナルです。
+// 【作者】GreenOwlさん
+// 【作品名】GreenOwl 初心者のためのゲームプログラミング入門
+//           14．ブロック崩しを作ろう
+// https://greenowl5.com/
+// https://greenowl5.com/gprogram/processing/processing140.html
+//
 class GameSceneScene extends GameScene {
   final int demoSec = 6;  // ブロック崩しのデモ秒数
   int mScore = 0;
@@ -13,7 +21,7 @@ class GameSceneScene extends GameScene {
   @Override void setup() {
     colorMode(HSB, 360, 100, 100);
     imageMode(CENTER);
-    
+
     int startX = (int)random(width);
     mBall = new Ball(startX, height / 2);
     // ブロックを作る
