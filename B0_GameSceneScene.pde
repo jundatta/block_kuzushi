@@ -2,9 +2,9 @@
 //
 // こちらがオリジナルです。
 // 【作者】GreenOwlさん
-// 【作品名】GreenOwl 初心者のためのゲームプログラミング入門
+// 【作品URL】GreenOwl 初心者のためのゲームプログラミング入門
+//           プログラミングとゲームの杜
 //           14．ブロック崩しを作ろう
-// https://greenowl5.com/
 // https://greenowl5.com/gprogram/processing/processing140.html
 //
 class GameSceneScene extends GameScene {
