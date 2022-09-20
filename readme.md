@@ -1,13 +1,10 @@
-# 【遊び方】2022/06/11
+# 【遊び方】2022/09/21
 
-https://www.nicovideo.jp/watch/sm40163068
 https://www.youtube.com/watch?v=RBkOlsDzWCo
 
-##### １．最近の「Processingで遊ぶにゃ♪」の配信を開きます。
+##### １．配信でいじってるRPG2のダウンロード先です。
 
-  "Processing"とかで検索するとでます。
-　・ブロック崩し（コングラチュレーション画面1～200）
-に書いてあるURLを開いて「block_kuzushi.zip」をダウンロードしてください。
+https://xgf.nu/1CBs
 
 ##### ２．適当なところに展開してください。
 
