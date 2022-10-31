@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=RBkOlsDzWCo
 ##### １．配信でいじってるRPG2のダウンロード先です。
 
 https://xgf.nu/40S4
+⇒inigo quilezさんの作品（58）は移植ダメそうなので抹消しましたm(__)m
 
 ##### ２．適当なところに展開してください。
 
